@@ -21,3 +21,5 @@ dist/
 # Virtualenvs
 env/
 venv/
+
+app/config/settings.local.toml

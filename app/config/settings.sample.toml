@@ -1,0 +1,23 @@
+field_size: 16
+
+final_bracket_size: 8
+
+qualify_wins: 3
+
+eliminate_losses: 3
+
+max_rounds: 5
+
+allow_draws: false
+
+avoid_rematches: true
+
+tiebreakers_order: [match_points, points_diff, points_scored, seed]
+
+ui.window_width: 1200
+
+ui.window_height: 800
+
+persistence.backend: "json"
+
+persistence.autosave: true
